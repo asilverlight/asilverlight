@@ -5,16 +5,16 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on RAG
-- 🌱 I’m currently learning RAG＆LLMs collaboration
-- 📫 How to reach me: https://space.bilibili.com/36555308?spm_id_from=333.337.0.0
+- 🔭 I’m currently working on agent+search
+- 🌱 I’m currently learning agent＆deep search
+- 📫 How to reach me: zhangboguodong@ruc.edu.cn
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: Anime
 -->
-- 🔭 I’m currently working on RAG
-- 🌱 I’m currently learning RAG＆LLMs collaboration
-- 📫 How to reach me: https://space.bilibili.com/36555308?spm_id_from=333.337.0.0
-- 😄 Pronouns: he/his
+- 🔭 I’m currently working on agent+search
+- 🌱 I’m currently learning agent＆deep search
+- 📫 How to reach me: zhangboguodong@ruc.edu.cn
+- 😄 Pronouns: Ania Forge
 
 I'm happy to discuss LLMs with you!
 
